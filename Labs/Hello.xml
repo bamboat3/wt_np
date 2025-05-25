@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<Name>John Doe</Name>
+		<Age>19</Age>
+		<Major>Chemistry</Major>
+		<GPA>8.8</GPA>
+	</record>
+	<record>
+		<Name>Ali Asghar</Name>
+		<Age>23</Age>
+		<Major>Maths</Major>
+		<GPA>5.5</GPA>
+	</record>
+	<record>
+		<Name>Hussain</Name>
+		<Age>21</Age>
+		<Major>Computer</Major>
+		<GPA>8.1</GPA>
+	</record>
+	<record>
+		<Name>Zeeshan</Name>
+		<Age>22</Age>
+		<Major>Urdu</Major>
+		<GPA>5.7</GPA>
+	</record>
+	<record/>
+</student-data>

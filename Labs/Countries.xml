@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<countries-data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<country>
+		<Name>Pakistan</Name>
+		<Id>1</Id>
+	</country>
+	<country>
+		<Name>USA</Name>
+		<Id>2</Id>
+	</country>
+	<country>
+		<Name>UK</Name>
+		<Id>3</Id>
+	</country>
+	<country>
+		<Name>India</Name>
+		<Id>4</Id>
+	</country>
+	<country>
+		<Name>Russia</Name>
+		<Id>5</Id>
+	</country>
+</countries-data>

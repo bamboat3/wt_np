@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addressbook>
+<emp1>
+  <name>Ahmed Khan</name>
+  <doorno>House No. B-102</doorno>
+  <street>Main Shahrah-e-Faisal</street>
+  <area>PECHS</area>
+  <city>Karachi-75400</city>
+  <state>Sindh</state>
+  <country>Pakistan</country>
+  <phoneno>03001234567</phoneno>
+</emp1>
+<emp2>
+  <name>Salman Ali</name>
+  <doorno>Flat No. A-3</doorno>
+  <street>Bahadurabad Road</street>
+  <area>Gulshan-e-Iqbal</area>
+  <city>Karachi-75300</city>
+  <state>Sindh</state>
+  <country>Pakistan</country>
+  <phoneno>03112345678</phoneno>
+</emp2>
+<emp3>
+  <name>Rizwan Sheikh</name>
+  <doorno>Plot No. 25</doorno>
+  <street>Korangi Industrial Road</street>
+  <area>Korangi</area>
+  <city>Karachi-74900</city>
+  <state>Sindh</state>
+  <country>Pakistan</country>
+  <phoneno>03211234567</phoneno>
+</emp3>
+</addressbook>
